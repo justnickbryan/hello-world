@@ -75,7 +75,9 @@ Switched to branch 'practice'
 M       README.md
 ```
 
-Note: it's possible to create a new branch and switch to it with a single command:
+#### Note:
+
+It's possible to create a new branch and switch to it with a single command:
 
 ```bash
 git checkout -b <newBranchName>
